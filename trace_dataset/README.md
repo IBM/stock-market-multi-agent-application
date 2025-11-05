@@ -1,0 +1,1 @@
+### Folder for generated trace (*.log) files

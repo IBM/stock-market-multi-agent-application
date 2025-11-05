@@ -1,0 +1,382 @@
+[
+    {
+        "id": "46b3a330b7b1442b9cd173c05de99fd3",
+        "prompt": "Give me the real-time price of Amazon stock."
+    },
+    {
+        "id": "ab002a5703f14961850d630729488fe5",
+        "prompt": "Any updates on Amazon stock today?"
+    },
+    {
+        "id": "b633a4c0cf394cff9b324da890f5cd97",
+        "prompt": "Get me the current cost of Amazon shares."
+    },
+    {
+        "id": "e4ee8b2ee46d42b490b2e204a0ed2d3a",
+        "prompt": "What is the latest price of Amazon stock?"
+    },
+    {
+        "id": "66fa3e23bd024d2fafb67d664b27bf60",
+        "prompt": "How much is Amazon trading at right now?"
+    },
+    {
+        "id": "f141070037cf4549aa3b257c072d6b95",
+        "prompt": "Can you tell me the current value of Amazon shares?"
+    },
+    {
+        "id": "702c28e1777e4d4c9391d01dcc806c0f",
+        "prompt": "What is the stock price of Amazon today?"
+    },
+    {
+        "id": "57236c4c648240aaa42e38ac6473f9a1",
+        "prompt": "Find out the latest share price for Amazon."
+    },
+    {
+        "id": "c21a42b6466d4f2ab96d5e8ce8c59de2",
+        "prompt": "What is the current stock price of Amazon on NYSE?"
+    },
+    {
+        "id": "35623f8da71a469382ea9ce5274d271e",
+        "prompt": "Get me the latest price of Amazon traded on NYSE."
+    },
+    {
+        "id": "f436856750ae433d9b06ca89779dac38",
+        "prompt": "Show the live market price of Amazon NYSE."
+    },
+    {
+        "id": "4bb8640fe4d74f76b9f23cc7d44f35a3",
+        "prompt": "Fetch the current trading value of Amazon stock on the New York Stock Exchange."
+    },
+    {
+        "id": "86a5347ebb1b4c79a1e77f0573a4d4c7",
+        "prompt": "What is the last traded price of Amazon on NYSE?"
+    },
+    {
+        "id": "99a305ca61cf43a8ac45185ed4c104ff",
+        "prompt": "What's the share price of Amazon on the NYSE today?"
+    },
+    {
+        "id": "fc4158c7738c4c1b977d5dcb3a4a8446",
+        "prompt": "Do you know what Amazon is priced at on the NYSE?"
+    },
+    {
+        "id": "31c981d2569d43aabf9d0955e882d4f1",
+        "prompt": "I need the current market value of Amazon from NYSE."
+    },
+    {
+        "id": "37339350887a4c599b526604baf66594",
+        "prompt": "Show me today\u2019s price movement of Amazon."
+    },
+    {
+        "id": "ff703931195f40eea282e6f79c6eff18",
+        "prompt": "Pull the latest NYSE quote for Amazon."
+    },
+    {
+        "id": "29fc72e8d4e54b41ac0a482dc6ad8ac6",
+        "prompt": "What\u2019s the intraday price of Amazon?"
+    },
+    {
+        "id": "9debf773eb504b5f97b8ec5391b9fdfe",
+        "prompt": "Give me the real-time price of Apple stock."
+    },
+    {
+        "id": "65b507d0c6df42ef8634f3459aa4b246",
+        "prompt": "Any updates on Apple stock today?"
+    },
+    {
+        "id": "d4fefa99d51b4896a3294852da10e938",
+        "prompt": "Get me the current cost of Apple shares."
+    },
+    {
+        "id": "4de3dc9862d44d9e9dedbbc4e5ebd9fc",
+        "prompt": "What is the latest price of Apple stock?"
+    },
+    {
+        "id": "e3caf7a2c2ab47cbbc66810a2e732917",
+        "prompt": "How much is Apple trading at right now?"
+    },
+    {
+        "id": "00410e7dec824461918e877d7eb86b07",
+        "prompt": "Can you tell me the current value of Apple shares?"
+    },
+    {
+        "id": "949eb094df884c1794bbb5a27a23d237",
+        "prompt": "What is the stock price of Apple today?"
+    },
+    {
+        "id": "8891304766564576ab22fdc098b442a2",
+        "prompt": "Find out the latest share price for Apple."
+    },
+    {
+        "id": "ef03ca142f814b8ca75a737ec4827b54",
+        "prompt": "What is the current stock price of Apple on NYSE?"
+    },
+    {
+        "id": "184d87d7d6144d4aa5cefe2b83a1fa1b",
+        "prompt": "Get me the latest price of Apple traded on NYSE."
+    },
+    {
+        "id": "64d8509d391f4347a5aebaa57a0640cd",
+        "prompt": "Show the live market price of Apple NYSE."
+    },
+    {
+        "id": "0ab4218759f54dddbed62b1b63b41ff8",
+        "prompt": "Fetch the current trading value of Apple stock on the New York Stock Exchange."
+    },
+    {
+        "id": "d28266ea33e94a179c592d72fee0e802",
+        "prompt": "What is the last traded price of Apple on NYSE?"
+    },
+    {
+        "id": "36c1e7f34ea04d54a0c1df3db7b0842a",
+        "prompt": "What's the share price of Apple on the NYSE today?"
+    },
+    {
+        "id": "25fc141f0e4b4e10996b3c1a22b22fd4",
+        "prompt": "Do you know what Apple is priced at on the NYSE?"
+    },
+    {
+        "id": "94a0f4f6adea4fdcabb73c1f6b6d6c46",
+        "prompt": "I need the current market value of Apple from NYSE."
+    },
+    {
+        "id": "30323d93d6ce4dd1b053fbf82554b5fe",
+        "prompt": "Show me today\u2019s price movement of Apple."
+    },
+    {
+        "id": "083c37597a124c7ead3185c3b30326e7",
+        "prompt": "Pull the latest NYSE quote for Apple."
+    },
+    {
+        "id": "cab559b3d67947fe964c4cf9545bf8c6",
+        "prompt": "What\u2019s the intraday price of Apple?"
+    },
+    {
+        "id": "3105bf13dd294f25a3760d23f0796e05",
+        "prompt": "Give me the real-time price of Google stock."
+    },
+    {
+        "id": "e66a679612e344d6bed025936e098827",
+        "prompt": "Any updates on Google stock today?"
+    },
+    {
+        "id": "30c6f6bfdf934e81ae7ea76079a30c1a",
+        "prompt": "Get me the current cost of Google shares."
+    },
+    {
+        "id": "b5a9cdd13ad24af8984c1c65f0545648",
+        "prompt": "What is the latest price of Google stock?"
+    },
+    {
+        "id": "4566257207074c9da4ce9f8eaad2ed4b",
+        "prompt": "How much is Google trading at right now?"
+    },
+    {
+        "id": "5b0b0b840c18402893fde224c28ef907",
+        "prompt": "Can you tell me the current value of Google shares?"
+    },
+    {
+        "id": "f436e9c2e38a430ab589d45d4544885e",
+        "prompt": "What is the stock price of Google today?"
+    },
+    {
+        "id": "68d3ce27bd5d4cdc9c4ad0ac55afefdb",
+        "prompt": "Find out the latest share price for Google."
+    },
+    {
+        "id": "d8ca76415012429c88165370649c7839",
+        "prompt": "What is the current stock price of Google on NYSE?"
+    },
+    {
+        "id": "53596084d4d24210a70e879e1d506fbb",
+        "prompt": "Get me the latest price of Google traded on NYSE."
+    },
+    {
+        "id": "2885fc62a47a4c25bd79f7fc5712e206",
+        "prompt": "Show the live market price of Google NYSE."
+    },
+    {
+        "id": "b0483a1807ae412fb7cd8c27af14fda7",
+        "prompt": "Fetch the current trading value of Google stock on the New York Stock Exchange."
+    },
+    {
+        "id": "9954c13ae4614e6eae92346617fc7f5e",
+        "prompt": "What is the last traded price of Google on NYSE?"
+    },
+    {
+        "id": "222f13273f3d4abbab732ea419614576",
+        "prompt": "What's the share price of Google on the NYSE today?"
+    },
+    {
+        "id": "94d9cc7b07a04d82890d5648dde4449c",
+        "prompt": "Do you know what Google is priced at on the NYSE?"
+    },
+    {
+        "id": "d04d5c112f1a45ca8fde588203a951de",
+        "prompt": "I need the current market value of Google from NYSE."
+    },
+    {
+        "id": "4eb0fc4394054692bc098ac3ffc5eece",
+        "prompt": "Show me today\u2019s price movement of Google."
+    },
+    {
+        "id": "d028d67d2a1d40dc8661817965ec8a95",
+        "prompt": "Pull the latest NYSE quote for Google."
+    },
+    {
+        "id": "5b5f66ad7df34d26a45dd587107675b7",
+        "prompt": "What\u2019s the intraday price of Google?"
+    },
+    {
+        "id": "f954352b868f49f8b167c87c7fa4335e",
+        "prompt": "Give me the real-time price of Microsoft stock."
+    },
+    {
+        "id": "db15b87b2edf438c8a644f48ce6c5f0c",
+        "prompt": "Any updates on Microsoft stock today?"
+    },
+    {
+        "id": "b0fb765424414da29efd4c9ba0240533",
+        "prompt": "Get me the current cost of Microsoft shares."
+    },
+    {
+        "id": "382cf41f41ab49eeae9f028fff38a2fc",
+        "prompt": "What is the latest price of Microsoft stock?"
+    },
+    {
+        "id": "52625ce8fb4a46b1b821877c38eba8ec",
+        "prompt": "How much is Microsoft trading at right now?"
+    },
+    {
+        "id": "53379a13c5fa490eb7f68eb31021c117",
+        "prompt": "Can you tell me the current value of Microsoft shares?"
+    },
+    {
+        "id": "68afb8aa74684495a8c33ef2e0967a60",
+        "prompt": "What is the stock price of Microsoft today?"
+    },
+    {
+        "id": "95ebecb612d34dc7a885dd718181fee3",
+        "prompt": "Find out the latest share price for Microsoft."
+    },
+    {
+        "id": "c5b8ab696fa44f3caced1c703a18fe55",
+        "prompt": "What is the current stock price of Microsoft on NYSE?"
+    },
+    {
+        "id": "3d44aad1a8ec409fa5315a4d49cd7815",
+        "prompt": "Get me the latest price of Microsoft traded on NYSE."
+    },
+    {
+        "id": "c79e6c540af44fa3a2f88b36932eb30e",
+        "prompt": "Show the live market price of Microsoft NYSE."
+    },
+    {
+        "id": "71282c25976b4c66b7bc7ae2d5bae962",
+        "prompt": "Fetch the current trading value of Microsoft stock on the New York Stock Exchange."
+    },
+    {
+        "id": "e52bd8aad78b43928fd8b117b5b4657b",
+        "prompt": "What is the last traded price of Microsoft on NYSE?"
+    },
+    {
+        "id": "d86f11edef954837b2a2a3beec0aec6e",
+        "prompt": "What's the share price of Microsoft on the NYSE today?"
+    },
+    {
+        "id": "37575799d6514a80994911f12a6e8320",
+        "prompt": "Do you know what Microsoft is priced at on the NYSE?"
+    },
+    {
+        "id": "aa103f51d339400d9ced148b86fbbbf2",
+        "prompt": "I need the current market value of Microsoft from NYSE."
+    },
+    {
+        "id": "85fa8a74596d4a44bf7a9558cd24cc26",
+        "prompt": "Show me today\u2019s price movement of Microsoft."
+    },
+    {
+        "id": "f352a6c08bd240d786c8f7055c8aabb0",
+        "prompt": "Pull the latest NYSE quote for Microsoft."
+    },
+    {
+        "id": "e40cf733c4104ddda4ed7e30c86bf7f1",
+        "prompt": "What\u2019s the intraday price of Microsoft?"
+    },
+    {
+        "id": "f017f08351db49529c997fd7c2eacfc8",
+        "prompt": "Give me the real-time price of Tesla stock."
+    },
+    {
+        "id": "cb8453085ee14227ac7e9a4749907973",
+        "prompt": "Any updates on Tesla stock today?"
+    },
+    {
+        "id": "95eab183b3ea425cb5a8afcff9064ef0",
+        "prompt": "Get me the current cost of Tesla shares."
+    },
+    {
+        "id": "185d11913d874d89ba2740f68922cd80",
+        "prompt": "What is the latest price of Tesla stock?"
+    },
+    {
+        "id": "4b4393cbee6f426184782bacce92b9ca",
+        "prompt": "How much is Tesla trading at right now?"
+    },
+    {
+        "id": "0aea21917ba444fdbf277cc21040819c",
+        "prompt": "Can you tell me the current value of Tesla shares?"
+    },
+    {
+        "id": "1b657345c9a6448eb9c72fe446405c3c",
+        "prompt": "What is the stock price of Tesla today?"
+    },
+    {
+        "id": "21280f3033aa484480b4ad2ee99b8adc",
+        "prompt": "Find out the latest share price for Tesla."
+    },
+    {
+        "id": "92753995cd9b4f49bd1497043ea85dd0",
+        "prompt": "What is the current stock price of Tesla on NYSE?"
+    },
+    {
+        "id": "3d2a57a2f6b24fa5aeb4faa7dc10fa9e",
+        "prompt": "Get me the latest price of Tesla traded on NYSE."
+    },
+    {
+        "id": "496e66d9a1df4cea8dbc64c96c85ff08",
+        "prompt": "Show the live market price of Tesla NYSE."
+    },
+    {
+        "id": "dbf785d612864b00a94b59a0774ff059",
+        "prompt": "Fetch the current trading value of Tesla stock on the New York Stock Exchange."
+    },
+    {
+        "id": "31d4307566554994a0ebd029370420bf",
+        "prompt": "What is the last traded price of Tesla on NYSE?"
+    },
+    {
+        "id": "32c40f28656c4f2e94af176e981c26d2",
+        "prompt": "What's the share price of Tesla on the NYSE today?"
+    },
+    {
+        "id": "3201499a2140497fa736b756d8d92d93",
+        "prompt": "Do you know what Tesla is priced at on the NYSE?"
+    },
+    {
+        "id": "c5383c3df3b7446dbf7deb9ab890b6bf",
+        "prompt": "I need the current market value of Tesla from NYSE."
+    },
+    {
+        "id": "794ae31a82a74ec686c90328ffb16ce3",
+        "prompt": "Show me today\u2019s price movement of Tesla."
+    },
+    {
+        "id": "ce709aaa22ff43f8b7f4ce9a4aefb966",
+        "prompt": "Pull the latest NYSE quote for Tesla."
+    },
+    {
+        "id": "f3d22a28583a41169acf9b6a4d33aad7",
+        "prompt": "What\u2019s the intraday price of Tesla?"
+    }
+]

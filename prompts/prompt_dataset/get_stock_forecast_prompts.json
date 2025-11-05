@@ -1,0 +1,122 @@
+[
+    {
+        "id": "08113321a73b41cc9dfa5b7ed307179a",
+        "prompt": "What is the forecast for Amazon stock in the next quarter?"
+    },
+    {
+        "id": "58e266d18da44a379a3bda3285bee9be",
+        "prompt": "Can you provide a forecast for Amazon shares over the next year?"
+    },
+    {
+        "id": "4047593a51f241bab746a9900797c7bb",
+        "prompt": "How do analysts predict Amazon will perform in the coming months?"
+    },
+    {
+        "id": "9625e23521e846e487e69f4151156223",
+        "prompt": "What is the expected trend for Amazon stock in the near future?"
+    },
+    {
+        "id": "7b4fec07d91049388e4a25cf4188d836",
+        "prompt": "Give me a forecast of Amazon shares for the next six months."
+    },
+    {
+        "id": "5141f57fa92f4291a5f872b04667e9ac",
+        "prompt": "What are the predictions for Amazon stock performance in the next few weeks?"
+    },
+    {
+        "id": "ec60b728a9124c478593e27829f46109",
+        "prompt": "What is the forecast for Apple stock in the next quarter?"
+    },
+    {
+        "id": "0089ff8cbe4b4c838d10c05965423b2f",
+        "prompt": "Can you provide a forecast for Apple shares over the next year?"
+    },
+    {
+        "id": "1384b98d052f464fb4013d2819a5e6ae",
+        "prompt": "How do analysts predict Apple will perform in the coming months?"
+    },
+    {
+        "id": "ad1499b8bf484aaa905b3843c6e9e35f",
+        "prompt": "What is the expected trend for Apple stock in the near future?"
+    },
+    {
+        "id": "635002b1d8c14ff59d46f2098ff1524d",
+        "prompt": "Give me a forecast of Apple shares for the next six months."
+    },
+    {
+        "id": "1fdd22d6ab4542cc99247e2174448510",
+        "prompt": "What are the predictions for Apple stock performance in the next few weeks?"
+    },
+    {
+        "id": "4a9e8158068e458196234134e77121df",
+        "prompt": "What is the forecast for Google stock in the next quarter?"
+    },
+    {
+        "id": "19d95baf527f47f3aa19f5772328c615",
+        "prompt": "Can you provide a forecast for Google shares over the next year?"
+    },
+    {
+        "id": "52fb70f745b14e549fc2a2437e758d42",
+        "prompt": "How do analysts predict Google will perform in the coming months?"
+    },
+    {
+        "id": "6835db9d2c7d4a99b64f71d7b77bbaa5",
+        "prompt": "What is the expected trend for Google stock in the near future?"
+    },
+    {
+        "id": "5e09b8607a3e4f02a464df1fb2f6103f",
+        "prompt": "Give me a forecast of Google shares for the next six months."
+    },
+    {
+        "id": "d9d236865d6a4e94860e5521e463e37a",
+        "prompt": "What are the predictions for Google stock performance in the next few weeks?"
+    },
+    {
+        "id": "ee5c2882b1d949cba66f975b7341c4fa",
+        "prompt": "What is the forecast for Microsoft stock in the next quarter?"
+    },
+    {
+        "id": "920eedcf32a14abdb97d04aa2a90c056",
+        "prompt": "Can you provide a forecast for Microsoft shares over the next year?"
+    },
+    {
+        "id": "ea6db953babd46fd92f5b42616bece53",
+        "prompt": "How do analysts predict Microsoft will perform in the coming months?"
+    },
+    {
+        "id": "3b25a3fb1e474afd8898a6c7bcef8f9f",
+        "prompt": "What is the expected trend for Microsoft stock in the near future?"
+    },
+    {
+        "id": "aeadf5aaba884da38b1aeb1e97158d00",
+        "prompt": "Give me a forecast of Microsoft shares for the next six months."
+    },
+    {
+        "id": "df38f49158d5421fbc896d9ca4ce12af",
+        "prompt": "What are the predictions for Microsoft stock performance in the next few weeks?"
+    },
+    {
+        "id": "c5641f76e7e6496d9857fce6a6e1cb79",
+        "prompt": "What is the forecast for Tesla stock in the next quarter?"
+    },
+    {
+        "id": "e3307deadd9240869d3ec135f957c8a3",
+        "prompt": "Can you provide a forecast for Tesla shares over the next year?"
+    },
+    {
+        "id": "a7a3581a0ef9407a9c68575fde083bc6",
+        "prompt": "How do analysts predict Tesla will perform in the coming months?"
+    },
+    {
+        "id": "e77fa662681a410b95f8ed7150947d67",
+        "prompt": "What is the expected trend for Tesla stock in the near future?"
+    },
+    {
+        "id": "c4f24916e32541258aff9237c7a876e4",
+        "prompt": "Give me a forecast of Tesla shares for the next six months."
+    },
+    {
+        "id": "497c2be605be435598ccf5ec96b2190e",
+        "prompt": "What are the predictions for Tesla stock performance in the next few weeks?"
+    }
+]

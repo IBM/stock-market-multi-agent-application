@@ -1,0 +1,266 @@
+{
+  "get_share_price_prompts": [   
+    {
+      "template": "Give me the real-time price of {index} stock."
+    },
+    {
+      "template": "Any updates on {index} stock today?"
+    },
+    {
+      "template": "Get me the current cost of {index} shares."
+    },
+    {
+      "template": "What is the latest price of {index} stock?"
+    },
+    {
+      "template": "How much is {index} trading at right now?"
+    },
+    {
+      "template": "Can you tell me the current value of {index} shares?"
+    },
+    {
+      "template": "What is the stock price of {index} today?"
+    },
+    {
+      "template": "Find out the latest share price for {index}."
+    },
+    {
+      "template": "What is the current stock price of {index} on NYSE?"
+    },
+    {
+      "template": "Get me the latest price of {index} traded on NYSE."
+    },
+    {
+      "template": "Show the live market price of {index} NYSE."
+    },
+    {
+      "template": "Fetch the current trading value of {index} stock on the New York Stock Exchange."
+    },
+    {
+      "template": "What is the last traded price of {index} on NYSE?"
+    },
+    {
+      "template": "What's the share price of {index} on the NYSE today?"
+    },
+    {
+      "template": "Do you know what {index} is priced at on the NYSE?"
+    },
+    {
+      "template": "I need the current market value of {index} from NYSE."
+    },
+    {
+      "template": "Show me today’s price movement of {index}."
+    },
+    {
+      "template": "Pull the latest NYSE quote for {index}."
+    },
+    {
+      "template": "What’s the intraday price of {index}?"
+    }
+  ],
+  "get_share_performce_comparison_prompts": [
+    {
+        "template": "Compare the performance of {index1} and {index2} over the last month."
+    },
+    {
+        "template": "How have {index1} and {index2} performed against each other in the last quarter?"
+    },
+    {
+        "template": "What is the performance difference between {index1} and {index2} in the past year?"
+    },
+    {
+        "template": "Analyze the stock performance of {index1} versus {index2} over the last six months."
+    },
+    {
+        "template": "Which has outperformed the other: {index1} or {index2} in the last three months?"
+    },
+    {
+        "template": "Give me a comparison of {index1} and {index2}'s stock performance over the last week."
+    },
+    {
+        "template": "How did {index1} perform compared to {index2} in the last month?"
+    },
+    {
+        "template": "Compare last month's returns of {index1} and {index2}."
+    },
+    {
+        "template": "Show a performance comparison between {index1} and {index2} over the past month."
+    },
+    {
+        "template": "What’s the monthly performance difference between {index1} and {index2}?"
+    },
+    {
+        "template": "Which performed better over the last month: {index1} or {index2}?"
+    },
+    {
+        "template": "Between {index1} and {index2}, which one did better last month?"
+    },
+    {
+        "template": "Can you compare {index1} vs {index2} for the past month?"
+    },
+    {
+        "template": "I’d like to see how {index1} stacks up against {index2} over the last month."
+    },
+    {
+        "template": "Tell me who’s winning: {index1} or {index2} in the last 30 days."
+    },
+    {
+        "template": "Which stock showed better growth last month — {index1} or {index2}?"
+    },
+    {
+        "template": "Which investment had better returns last month: {index1} or {index2}?"
+    },
+    {
+        "template": "Compare the price movement of {index1} and {index2} over the last 30 days."
+    },
+    {
+        "template": "Provide a performance breakdown of {index1} vs {index2} in last month."
+    },
+    {
+        "template": "Monthly performance report: {index1} vs {index2}."
+    },
+    {
+        "template": "Among {index1} and {index2} Which stock outperformed the other over the past month?"
+    }
+  ],
+  "get_stock_news_prompts": [
+    {
+      "template": "What are the latest news articles about {index}?"
+    },
+    {
+      "template": "Can you find recent news related to {index} stock?"
+    },
+    {
+      "template": "What is the current news coverage for {index}?"
+    },
+    {
+      "template": "Show me the latest updates on {index} shares."
+    },
+    {
+      "template": "Are there any recent developments regarding {index}?"
+    },
+    {
+      "template": "What news has been published about {index} in the last week?"
+    },
+    {
+      "template": "Show me the latest news about {index}."
+    },
+    {
+      "template": "What are the most recent headlines related to {index}?"
+    },
+    {
+      "template": "Get me current news articles on {index}."
+    },
+    {
+      "template": "What’s in the news for {index} today?"
+    },
+    {
+      "template": "Fetch the latest updates on {index}."
+    },
+    {
+      "template": "Any new stories about {index}?"
+    },
+    {
+      "template": "What’s going on with {index} in the news?"
+    },
+    {
+      "template": "Heard anything new about {index}?"
+    },
+    {
+      "template": "What’s the buzz around {index} today?"
+    },
+    {
+      "template": "What’s trending about {index} right now?"
+    },
+    {
+      "template": "Give me real-time news on {index}."
+    },
+    {
+      "template": "Any breaking news about {index}?"
+    },
+    {
+      "template": "Show the most recent coverage of {index}."
+    },
+    {
+      "template": "Latest developments related to {index}?"
+    },
+    {
+      "template": "Pull news headlines for {index} from today."
+    },
+    {
+      "template": "Any market news affecting {index}?"
+    },
+    {
+      "template": "What financial news has come out about {index}?"
+    },
+    {
+      "template": "Any analyst reports or updates about {index} recently?"
+    },
+    {
+      "template": "What media coverage has {index} received today?"
+    },
+    {
+      "template": "Are there any important events or news impacting {index}?"
+    }
+  ],
+  "get_stock_analysis_prompts": [
+    {
+      "template": "What is the current analysis of {index} stock?"
+    },
+    {
+      "template": "Can you provide an analysis of {index} shares?"
+    },
+    {
+      "template": "How is {index} performing according to recent analyses?"
+    },
+    {
+      "template": "What do analysts say about the future of {index} stock?"
+    },
+    {
+      "template": "Give me a detailed analysis of {index} shares."
+    },
+    {
+      "template": "What are the expert opinions on {index} stock performance?"
+    }
+  ],
+  "get_stock_trends_prompts": [
+    {
+      "template": "What are the current trends in {index} stock?"
+    },
+    {
+      "template": "Can you analyze the recent trends for {index} shares?"
+    },
+    {
+      "template": "How has {index} stock been trending over the last month?"
+    },
+    {
+      "template": "What are the latest trends observed in {index}?"
+    },
+    {
+      "template": "Give me an overview of the trends for {index} stock."
+    },
+    {
+      "template": "What patterns can be seen in the performance of {index} shares recently?"
+    }
+  ],
+  "get_stock_forecast_prompts": [
+    {
+      "template": "What is the forecast for {index} stock in the next quarter?"
+    },
+    {
+      "template": "Can you provide a forecast for {index} shares over the next year?"
+    },
+    {
+      "template": "How do analysts predict {index} will perform in the coming months?"
+    },
+    {
+      "template": "What is the expected trend for {index} stock in the near future?"
+    },
+    {
+      "template": "Give me a forecast of {index} shares for the next six months."
+    },
+    {
+      "template": "What are the predictions for {index} stock performance in the next few weeks?"
+    }
+  ]
+}

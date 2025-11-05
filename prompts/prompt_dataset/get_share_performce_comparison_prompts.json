@@ -1,0 +1,842 @@
+[
+    {
+        "id": "1d37b5dd23694bb286617626530de24b",
+        "prompt": "Compare the performance of Amazon and Apple over the last month."
+    },
+    {
+        "id": "eb1007ebe1c94005a26605fc5ca30eb0",
+        "prompt": "How have Amazon and Apple performed against each other in the last quarter?"
+    },
+    {
+        "id": "e65d85b34c4d454b8f17ff665274636d",
+        "prompt": "What is the performance difference between Amazon and Apple in the past year?"
+    },
+    {
+        "id": "e626671447a0484e8518133a7398df04",
+        "prompt": "Analyze the stock performance of Amazon versus Apple over the last six months."
+    },
+    {
+        "id": "4d4f4ede3012420d934cb4f4b077106f",
+        "prompt": "Which has outperformed the other: Amazon or Apple in the last three months?"
+    },
+    {
+        "id": "e0b9da5f563743e9b190fdb88aceda05",
+        "prompt": "Give me a comparison of Amazon and Apple's stock performance over the last week."
+    },
+    {
+        "id": "cae3d4d9b6a843cfaffa54fc55a4518a",
+        "prompt": "How did Amazon perform compared to Apple in the last month?"
+    },
+    {
+        "id": "84df7c732ade488e82e1ddc77ccd9027",
+        "prompt": "Compare last month's returns of Amazon and Apple."
+    },
+    {
+        "id": "fcdbe59954a3498d848c38a418ff90c3",
+        "prompt": "Show a performance comparison between Amazon and Apple over the past month."
+    },
+    {
+        "id": "4c1784386ab14034a94f404b0bbea85c",
+        "prompt": "What\u2019s the monthly performance difference between Amazon and Apple?"
+    },
+    {
+        "id": "a2e2a64fbc3a4036866cbd1896317778",
+        "prompt": "Which performed better over the last month: Amazon or Apple?"
+    },
+    {
+        "id": "89d5ecd0edbd404580f7750e0c542899",
+        "prompt": "Between Amazon and Apple, which one did better last month?"
+    },
+    {
+        "id": "70644f3e77fb41958c370c6761e0d736",
+        "prompt": "Can you compare Amazon vs Apple for the past month?"
+    },
+    {
+        "id": "719df3dd479044b193dd1ccc0748e911",
+        "prompt": "I\u2019d like to see how Amazon stacks up against Apple over the last month."
+    },
+    {
+        "id": "4c540d9e77b349f182144a692ce88bd7",
+        "prompt": "Tell me who\u2019s winning: Amazon or Apple in the last 30 days."
+    },
+    {
+        "id": "f42ca8d413fd4f69901ec788350a9ca9",
+        "prompt": "Which stock showed better growth last month \u2014 Amazon or Apple?"
+    },
+    {
+        "id": "447835403dd64e819a9422a6dfa6886c",
+        "prompt": "Which investment had better returns last month: Amazon or Apple?"
+    },
+    {
+        "id": "4a571c66912a4bf6a12e9075c27bf769",
+        "prompt": "Compare the price movement of Amazon and Apple over the last 30 days."
+    },
+    {
+        "id": "f7e706aec095497795044083ac2735c7",
+        "prompt": "Provide a performance breakdown of Amazon vs Apple in last month."
+    },
+    {
+        "id": "b735257c3bd84a5abca716b8055dc7ae",
+        "prompt": "Monthly performance report: Amazon vs Apple."
+    },
+    {
+        "id": "00988c385d774e3cb2430825bfa5f08d",
+        "prompt": "Among Amazon and Apple Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "eb2acacb33a64788948ed5a5489c2b69",
+        "prompt": "Compare the performance of Amazon and Google over the last month."
+    },
+    {
+        "id": "3b465cbaab5949f19a88ff0cc64db2a6",
+        "prompt": "How have Amazon and Google performed against each other in the last quarter?"
+    },
+    {
+        "id": "2273ae7bca1e45c1ac2c3b374a33c0ca",
+        "prompt": "What is the performance difference between Amazon and Google in the past year?"
+    },
+    {
+        "id": "8a2f4cdf46894ffa83629d076a58192d",
+        "prompt": "Analyze the stock performance of Amazon versus Google over the last six months."
+    },
+    {
+        "id": "63e9bfdaefa54c9a835494385bb7167b",
+        "prompt": "Which has outperformed the other: Amazon or Google in the last three months?"
+    },
+    {
+        "id": "4292a6abe50641819ec38f8d0fcdd2f6",
+        "prompt": "Give me a comparison of Amazon and Google's stock performance over the last week."
+    },
+    {
+        "id": "927991f2733241e4aabec4e910d700d7",
+        "prompt": "How did Amazon perform compared to Google in the last month?"
+    },
+    {
+        "id": "4dfbe9060ac948f5bf0ef555db3ad56f",
+        "prompt": "Compare last month's returns of Amazon and Google."
+    },
+    {
+        "id": "9e2e5a96448d4a2e946aa760aca6581d",
+        "prompt": "Show a performance comparison between Amazon and Google over the past month."
+    },
+    {
+        "id": "4e941950eac04c6cacb05266d613e09c",
+        "prompt": "What\u2019s the monthly performance difference between Amazon and Google?"
+    },
+    {
+        "id": "2f238a4b0ee54d47a00e18e4cb4be7a5",
+        "prompt": "Which performed better over the last month: Amazon or Google?"
+    },
+    {
+        "id": "aacd5e8a2e804fc692f5e2539d58ff0e",
+        "prompt": "Between Amazon and Google, which one did better last month?"
+    },
+    {
+        "id": "c8a45f60692e4c0789aded7da116ae69",
+        "prompt": "Can you compare Amazon vs Google for the past month?"
+    },
+    {
+        "id": "59d46c83c71d4a269f0305c94ad3718f",
+        "prompt": "I\u2019d like to see how Amazon stacks up against Google over the last month."
+    },
+    {
+        "id": "2bcd809984774d358d170893079ff311",
+        "prompt": "Tell me who\u2019s winning: Amazon or Google in the last 30 days."
+    },
+    {
+        "id": "049a1540c10b448bb7c3ca6323d5212c",
+        "prompt": "Which stock showed better growth last month \u2014 Amazon or Google?"
+    },
+    {
+        "id": "bce05af9e23a4e85bff4abc29fcc1662",
+        "prompt": "Which investment had better returns last month: Amazon or Google?"
+    },
+    {
+        "id": "336220290aee4a4685989f898bcfb66a",
+        "prompt": "Compare the price movement of Amazon and Google over the last 30 days."
+    },
+    {
+        "id": "4e34665373994fdbaf98b54f9d8c5ccc",
+        "prompt": "Provide a performance breakdown of Amazon vs Google in last month."
+    },
+    {
+        "id": "40e1c7dc8346462bbb474872c8a4867d",
+        "prompt": "Monthly performance report: Amazon vs Google."
+    },
+    {
+        "id": "fcb22fcf88f54f7f98ac534d98cc0c93",
+        "prompt": "Among Amazon and Google Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "31ad32da78dd4fdba946f92578690023",
+        "prompt": "Compare the performance of Amazon and Microsoft over the last month."
+    },
+    {
+        "id": "3402359bc56e4c5a94bcf918a2615464",
+        "prompt": "How have Amazon and Microsoft performed against each other in the last quarter?"
+    },
+    {
+        "id": "22fedb339191478087869868136a4712",
+        "prompt": "What is the performance difference between Amazon and Microsoft in the past year?"
+    },
+    {
+        "id": "a9fadc0a3e594554a3c669f416ef9d1c",
+        "prompt": "Analyze the stock performance of Amazon versus Microsoft over the last six months."
+    },
+    {
+        "id": "db9813e27f9049e9ad70439eeef8d923",
+        "prompt": "Which has outperformed the other: Amazon or Microsoft in the last three months?"
+    },
+    {
+        "id": "f08c1d38ee2a4ef8a50430ec1446701f",
+        "prompt": "Give me a comparison of Amazon and Microsoft's stock performance over the last week."
+    },
+    {
+        "id": "135b1bb8695c4f34a150128195256d23",
+        "prompt": "How did Amazon perform compared to Microsoft in the last month?"
+    },
+    {
+        "id": "0fb5feb663cf4f2c82014db3a1fa4400",
+        "prompt": "Compare last month's returns of Amazon and Microsoft."
+    },
+    {
+        "id": "5943bbfd3ffe459fba6917decc073042",
+        "prompt": "Show a performance comparison between Amazon and Microsoft over the past month."
+    },
+    {
+        "id": "2919b867f155471783337e3d5ac18435",
+        "prompt": "What\u2019s the monthly performance difference between Amazon and Microsoft?"
+    },
+    {
+        "id": "f0444f7aae9a4efa906258075aa36be7",
+        "prompt": "Which performed better over the last month: Amazon or Microsoft?"
+    },
+    {
+        "id": "deb27f4e3c694cb09708f0477f0d224d",
+        "prompt": "Between Amazon and Microsoft, which one did better last month?"
+    },
+    {
+        "id": "9ebd58e82eb844cfa16f6958f6eef7d8",
+        "prompt": "Can you compare Amazon vs Microsoft for the past month?"
+    },
+    {
+        "id": "c3614eabb8ef4da596952c8b0eccea4d",
+        "prompt": "I\u2019d like to see how Amazon stacks up against Microsoft over the last month."
+    },
+    {
+        "id": "f061d0c42b24485080a3c2335f6348d7",
+        "prompt": "Tell me who\u2019s winning: Amazon or Microsoft in the last 30 days."
+    },
+    {
+        "id": "d7cbdd8925a9442b9474b357529a3495",
+        "prompt": "Which stock showed better growth last month \u2014 Amazon or Microsoft?"
+    },
+    {
+        "id": "da14203de9bd4ba6b6ce60fc8b6ee3df",
+        "prompt": "Which investment had better returns last month: Amazon or Microsoft?"
+    },
+    {
+        "id": "d46996724b6042e9bf64b650f8226fa2",
+        "prompt": "Compare the price movement of Amazon and Microsoft over the last 30 days."
+    },
+    {
+        "id": "66f08157f211450d9d65862e5dca12f4",
+        "prompt": "Provide a performance breakdown of Amazon vs Microsoft in last month."
+    },
+    {
+        "id": "81f337cd753041149a4caed42453ee7e",
+        "prompt": "Monthly performance report: Amazon vs Microsoft."
+    },
+    {
+        "id": "86567017b3b54304bca18d9f211e5f2b",
+        "prompt": "Among Amazon and Microsoft Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "c76adaf0222f4bf99ac42d4182e52f41",
+        "prompt": "Compare the performance of Amazon and Tesla over the last month."
+    },
+    {
+        "id": "c8806d351ae943d5b2e16782d312d2a3",
+        "prompt": "How have Amazon and Tesla performed against each other in the last quarter?"
+    },
+    {
+        "id": "7ec35d7b23a24e5e94b9ceebbb30521a",
+        "prompt": "What is the performance difference between Amazon and Tesla in the past year?"
+    },
+    {
+        "id": "7fc32d0fc4614a0ebe2b73d4a3a6d080",
+        "prompt": "Analyze the stock performance of Amazon versus Tesla over the last six months."
+    },
+    {
+        "id": "5cf225c0f1544fba9019c53b36143643",
+        "prompt": "Which has outperformed the other: Amazon or Tesla in the last three months?"
+    },
+    {
+        "id": "936cefa44ebb43c1921252675e4a97a3",
+        "prompt": "Give me a comparison of Amazon and Tesla's stock performance over the last week."
+    },
+    {
+        "id": "6c1e515eedc844d2aadddc91ecec4e34",
+        "prompt": "How did Amazon perform compared to Tesla in the last month?"
+    },
+    {
+        "id": "0a9919fee25c493aaaa6bea523c55f7b",
+        "prompt": "Compare last month's returns of Amazon and Tesla."
+    },
+    {
+        "id": "febee950f1ab4076b46fb46adee1a183",
+        "prompt": "Show a performance comparison between Amazon and Tesla over the past month."
+    },
+    {
+        "id": "fcb10ca6adeb45c0a32948fce648b497",
+        "prompt": "What\u2019s the monthly performance difference between Amazon and Tesla?"
+    },
+    {
+        "id": "6566b27bb7c3425ba031145cf34da9fa",
+        "prompt": "Which performed better over the last month: Amazon or Tesla?"
+    },
+    {
+        "id": "c19285871d1640268d4368c6558cc9e8",
+        "prompt": "Between Amazon and Tesla, which one did better last month?"
+    },
+    {
+        "id": "51d69c78e2684a1998578056cf50f087",
+        "prompt": "Can you compare Amazon vs Tesla for the past month?"
+    },
+    {
+        "id": "1e34e25092814a73a438f5131a3abf46",
+        "prompt": "I\u2019d like to see how Amazon stacks up against Tesla over the last month."
+    },
+    {
+        "id": "a50be23eb329488098ec536062851477",
+        "prompt": "Tell me who\u2019s winning: Amazon or Tesla in the last 30 days."
+    },
+    {
+        "id": "83405a138f7b4fe3a7fe9c3c795197e9",
+        "prompt": "Which stock showed better growth last month \u2014 Amazon or Tesla?"
+    },
+    {
+        "id": "a470fd54ff8f4a9a885769abb37be5ea",
+        "prompt": "Which investment had better returns last month: Amazon or Tesla?"
+    },
+    {
+        "id": "d6287055fecf4c8aa730d228d8382d79",
+        "prompt": "Compare the price movement of Amazon and Tesla over the last 30 days."
+    },
+    {
+        "id": "afc1d43d23964c31a6aa6e77d34bdce5",
+        "prompt": "Provide a performance breakdown of Amazon vs Tesla in last month."
+    },
+    {
+        "id": "79aa00191a9147a4b4c44e3bd04d78c5",
+        "prompt": "Among Amazon and Tesla Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "6bdb21fe729f49c8a94cbb0851c7b232",
+        "prompt": "Compare the performance of Apple and Google over the last month."
+    },
+    {
+        "id": "d6082c8b636149fd994fc7f42d820a4d",
+        "prompt": "How have Apple and Google performed against each other in the last quarter?"
+    },
+    {
+        "id": "66effe8f889948af8cf9c84079bfc115",
+        "prompt": "What is the performance difference between Apple and Google in the past year?"
+    },
+    {
+        "id": "9879d4b4d93e40e8895f045e5cd1e01d",
+        "prompt": "Analyze the stock performance of Apple versus Google over the last six months."
+    },
+    {
+        "id": "334ab54e066d490493ef24ebe0ac292a",
+        "prompt": "Which has outperformed the other: Apple or Google in the last three months?"
+    },
+    {
+        "id": "5429f60b90ce4e648d9873b0ce8c3ad7",
+        "prompt": "Give me a comparison of Apple and Google's stock performance over the last week."
+    },
+    {
+        "id": "48721aa6b32b42e88213022bff0227fd",
+        "prompt": "How did Apple perform compared to Google in the last month?"
+    },
+    {
+        "id": "8dda9def71a04405b51e7510ed303e54",
+        "prompt": "Compare last month's returns of Apple and Google."
+    },
+    {
+        "id": "5834c8d02f0c409ba348e8066f239a3b",
+        "prompt": "Show a performance comparison between Apple and Google over the past month."
+    },
+    {
+        "id": "e76c752757e7450299991efb175d204d",
+        "prompt": "What\u2019s the monthly performance difference between Apple and Google?"
+    },
+    {
+        "id": "cd17c80c26944b1b955a8a93c43be5f2",
+        "prompt": "Which performed better over the last month: Apple or Google?"
+    },
+    {
+        "id": "e8620fd19ac4496bbe59f1d8c6647a7f",
+        "prompt": "Between Apple and Google, which one did better last month?"
+    },
+    {
+        "id": "7fa3d033d78449889e4475c9c0204d87",
+        "prompt": "I\u2019d like to see how Apple stacks up against Google over the last month."
+    },
+    {
+        "id": "7d4e16c3b9c44d7087d6aca5ad27827e",
+        "prompt": "Tell me who\u2019s winning: Apple or Google in the last 30 days."
+    },
+    {
+        "id": "16ccecbbb2624e55b61f2aba397dfa11",
+        "prompt": "Which stock showed better growth last month \u2014 Apple or Google?"
+    },
+    {
+        "id": "837f597b013749d2972bec49e28fe58c",
+        "prompt": "Which investment had better returns last month: Apple or Google?"
+    },
+    {
+        "id": "10bafeaf1cf544d0aa09a61d9716c6a7",
+        "prompt": "Compare the price movement of Apple and Google over the last 30 days."
+    },
+    {
+        "id": "803ff739c5c4490a83bdff225fee0acc",
+        "prompt": "Provide a performance breakdown of Apple vs Google in last month."
+    },
+    {
+        "id": "dac596e72ce74e359213f8bb89094f8b",
+        "prompt": "Monthly performance report: Apple vs Google."
+    },
+    {
+        "id": "291fad7dcda843f08aa036fc429cc25b",
+        "prompt": "Among Apple and Google Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "eed884f7ac1f498d910ebb665eb5bc5e",
+        "prompt": "Compare the performance of Apple and Microsoft over the last month."
+    },
+    {
+        "id": "c62d23926dac4c0fbfb9b9bbeeeddc98",
+        "prompt": "How have Apple and Microsoft performed against each other in the last quarter?"
+    },
+    {
+        "id": "3a781c02738449169c89173092f1c652",
+        "prompt": "What is the performance difference between Apple and Microsoft in the past year?"
+    },
+    {
+        "id": "5852e06e9af0420686fcf32512ea8f69",
+        "prompt": "Analyze the stock performance of Apple versus Microsoft over the last six months."
+    },
+    {
+        "id": "78c6a0828c82434196eb723b51c36191",
+        "prompt": "Which has outperformed the other: Apple or Microsoft in the last three months?"
+    },
+    {
+        "id": "01404696d6774a778c6584e0eda15ed8",
+        "prompt": "Give me a comparison of Apple and Microsoft's stock performance over the last week."
+    },
+    {
+        "id": "0b3c109a25b842c3ae6a272476bd7b77",
+        "prompt": "How did Apple perform compared to Microsoft in the last month?"
+    },
+    {
+        "id": "de4cb3d8ebee49ce855139825e512bbb",
+        "prompt": "Compare last month's returns of Apple and Microsoft."
+    },
+    {
+        "id": "1276fb7f42154c75b256e06db40b4dc5",
+        "prompt": "Show a performance comparison between Apple and Microsoft over the past month."
+    },
+    {
+        "id": "e9080313d7d94092a81dda5fd4f539a0",
+        "prompt": "What\u2019s the monthly performance difference between Apple and Microsoft?"
+    },
+    {
+        "id": "2ee02075e03a427795a9eb486f98c6fc",
+        "prompt": "Which performed better over the last month: Apple or Microsoft?"
+    },
+    {
+        "id": "d2ff8ad21dc8417c8577efabc42ae594",
+        "prompt": "Between Apple and Microsoft, which one did better last month?"
+    },
+    {
+        "id": "0c4c7996d8af4a168dee87cfff040f64",
+        "prompt": "Can you compare Apple vs Microsoft for the past month?"
+    },
+    {
+        "id": "5680ed30464a42a88d7e493aa3170294",
+        "prompt": "I\u2019d like to see how Apple stacks up against Microsoft over the last month."
+    },
+    {
+        "id": "ac5f843674264c9ab11f53412f968b4b",
+        "prompt": "Tell me who\u2019s winning: Apple or Microsoft in the last 30 days."
+    },
+    {
+        "id": "5f676c0beb834d548a8c8d113476cf5f",
+        "prompt": "Which stock showed better growth last month \u2014 Apple or Microsoft?"
+    },
+    {
+        "id": "263b654639fd40c69e1dbd27683e7be1",
+        "prompt": "Which investment had better returns last month: Apple or Microsoft?"
+    },
+    {
+        "id": "383d1b5f36b9414aa76fb3237c55c3b5",
+        "prompt": "Compare the price movement of Apple and Microsoft over the last 30 days."
+    },
+    {
+        "id": "418b45b8f22542c4a5fff744bf2de7f4",
+        "prompt": "Provide a performance breakdown of Apple vs Microsoft in last month."
+    },
+    {
+        "id": "94fa4506fc7d41b2ba854f443deaece8",
+        "prompt": "Monthly performance report: Apple vs Microsoft."
+    },
+    {
+        "id": "b394bb6f72bc4a0abf93f574446f7890",
+        "prompt": "Among Apple and Microsoft Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "5d1f4d36e10a4e9282477e6eb4192fbb",
+        "prompt": "Compare the performance of Apple and Tesla over the last month."
+    },
+    {
+        "id": "66bd778563ff422a87f5044df433a61c",
+        "prompt": "How have Apple and Tesla performed against each other in the last quarter?"
+    },
+    {
+        "id": "a954bac47b894384a9e361c97dc26f53",
+        "prompt": "What is the performance difference between Apple and Tesla in the past year?"
+    },
+    {
+        "id": "8506f09f14b94c3e87e0c5e636bd431d",
+        "prompt": "Analyze the stock performance of Apple versus Tesla over the last six months."
+    },
+    {
+        "id": "ce85a6c3ee894a868b4d9dfcf4e149db",
+        "prompt": "Which has outperformed the other: Apple or Tesla in the last three months?"
+    },
+    {
+        "id": "b4cbd791d79f4d01a2e78932ae49fd35",
+        "prompt": "Give me a comparison of Apple and Tesla's stock performance over the last week."
+    },
+    {
+        "id": "8a900dbe6e81426b994748022b02a0f3",
+        "prompt": "How did Apple perform compared to Tesla in the last month?"
+    },
+    {
+        "id": "303eafe3acbf4df28966060c037aed8d",
+        "prompt": "Compare last month's returns of Apple and Tesla."
+    },
+    {
+        "id": "dc77b47c67904256bcfb4c6e4eb9347a",
+        "prompt": "Show a performance comparison between Apple and Tesla over the past month."
+    },
+    {
+        "id": "d05c2a1dda89400ebcd476123c75e9fe",
+        "prompt": "What\u2019s the monthly performance difference between Apple and Tesla?"
+    },
+    {
+        "id": "9a934e55d18349e19e5ecb1382ca7e06",
+        "prompt": "Which performed better over the last month: Apple or Tesla?"
+    },
+    {
+        "id": "b06e37404e39435bb1cf9d8cf14f6be4",
+        "prompt": "Between Apple and Tesla, which one did better last month?"
+    },
+    {
+        "id": "89d370fb5fe34251959d6ab981462f49",
+        "prompt": "Can you compare Apple vs Tesla for the past month?"
+    },
+    {
+        "id": "160c34b8358d4d1295a18adbe028806c",
+        "prompt": "I\u2019d like to see how Apple stacks up against Tesla over the last month."
+    },
+    {
+        "id": "383fb5f37c844ff7a6d86ff363029bb8",
+        "prompt": "Tell me who\u2019s winning: Apple or Tesla in the last 30 days."
+    },
+    {
+        "id": "a2a580a950194819a6685740e417992f",
+        "prompt": "Which stock showed better growth last month \u2014 Apple or Tesla?"
+    },
+    {
+        "id": "505c16f732c34be3beb3c7a1d33aa4d9",
+        "prompt": "Which investment had better returns last month: Apple or Tesla?"
+    },
+    {
+        "id": "7c7edfd0d33a4e4e9822f3d3a00c3f69",
+        "prompt": "Compare the price movement of Apple and Tesla over the last 30 days."
+    },
+    {
+        "id": "2eac010f1f8247818873a36cc5c80b57",
+        "prompt": "Provide a performance breakdown of Apple vs Tesla in last month."
+    },
+    {
+        "id": "a8fdb7900bf8448c9258d2756d9a2cc7",
+        "prompt": "Monthly performance report: Apple vs Tesla."
+    },
+    {
+        "id": "1c75d4e885e6435f88e97912c4c3d707",
+        "prompt": "Among Apple and Tesla Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "04359318a7fb42a6b2a32a776acf0a00",
+        "prompt": "Compare the performance of Google and Microsoft over the last month."
+    },
+    {
+        "id": "9c2dfa3277924e26854f2618bc0ae01f",
+        "prompt": "How have Google and Microsoft performed against each other in the last quarter?"
+    },
+    {
+        "id": "0afe7999089740a7af92ffe504e9a35c",
+        "prompt": "What is the performance difference between Google and Microsoft in the past year?"
+    },
+    {
+        "id": "62379cc3605f46fdbca658e73062c0da",
+        "prompt": "Analyze the stock performance of Google versus Microsoft over the last six months."
+    },
+    {
+        "id": "5505f493bab745149e397ecc768d8ffb",
+        "prompt": "Which has outperformed the other: Google or Microsoft in the last three months?"
+    },
+    {
+        "id": "597898bc48824044ba5a8a3c3adddb6c",
+        "prompt": "Give me a comparison of Google and Microsoft's stock performance over the last week."
+    },
+    {
+        "id": "a4b08ba5df9648bf893396b91f2820d3",
+        "prompt": "How did Google perform compared to Microsoft in the last month?"
+    },
+    {
+        "id": "e9cbebd76633459e9f1e219a7541f4eb",
+        "prompt": "Compare last month's returns of Google and Microsoft."
+    },
+    {
+        "id": "3490138c9e8a474b85ab8d7089d5442c",
+        "prompt": "Show a performance comparison between Google and Microsoft over the past month."
+    },
+    {
+        "id": "7f3b90d8417a43689e7ea14ca916b804",
+        "prompt": "What\u2019s the monthly performance difference between Google and Microsoft?"
+    },
+    {
+        "id": "bda30c457de349a39feb220136754a5e",
+        "prompt": "Which performed better over the last month: Google or Microsoft?"
+    },
+    {
+        "id": "13fa5c37f14b4fe6be3f539b0f3f0ef6",
+        "prompt": "Between Google and Microsoft, which one did better last month?"
+    },
+    {
+        "id": "d9e61d5aef1d4a0d9c92e65120e6c7cb",
+        "prompt": "Can you compare Google vs Microsoft for the past month?"
+    },
+    {
+        "id": "cb1cc5d799a84425a43ab850346fe0e1",
+        "prompt": "I\u2019d like to see how Google stacks up against Microsoft over the last month."
+    },
+    {
+        "id": "821fd6a7acbe4937a822dd5d2249d467",
+        "prompt": "Tell me who\u2019s winning: Google or Microsoft in the last 30 days."
+    },
+    {
+        "id": "2a445fe80b65409a937e7eefac7f8dcc",
+        "prompt": "Which stock showed better growth last month \u2014 Google or Microsoft?"
+    },
+    {
+        "id": "1fd973804029451a9bb87fe85c113300",
+        "prompt": "Which investment had better returns last month: Google or Microsoft?"
+    },
+    {
+        "id": "6ac4deb2809d41c686da71b9add936a3",
+        "prompt": "Compare the price movement of Google and Microsoft over the last 30 days."
+    },
+    {
+        "id": "7a1cba24fe65480e9244aaff9d4c9c13",
+        "prompt": "Provide a performance breakdown of Google vs Microsoft in last month."
+    },
+    {
+        "id": "da91ba28280f457bb66e9769974a854d",
+        "prompt": "Monthly performance report: Google vs Microsoft."
+    },
+    {
+        "id": "1c3ea79a6e4f47ae964361c90224c71f",
+        "prompt": "Among Google and Microsoft Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "e3de24b07dcb4477bc9939882e4e2702",
+        "prompt": "Compare the performance of Google and Tesla over the last month."
+    },
+    {
+        "id": "410913feb90e4a04b0a3c60c751a3af1",
+        "prompt": "How have Google and Tesla performed against each other in the last quarter?"
+    },
+    {
+        "id": "b8cb0e5132844d9ca7f5ea02a599f193",
+        "prompt": "What is the performance difference between Google and Tesla in the past year?"
+    },
+    {
+        "id": "90ff06e215d54df19c1262939f43d6bb",
+        "prompt": "Analyze the stock performance of Google versus Tesla over the last six months."
+    },
+    {
+        "id": "532e0d17bbdc46c38bdd4f7d513e6b49",
+        "prompt": "Which has outperformed the other: Google or Tesla in the last three months?"
+    },
+    {
+        "id": "40a45724353f427fb96e938ae27613ce",
+        "prompt": "Give me a comparison of Google and Tesla's stock performance over the last week."
+    },
+    {
+        "id": "3e9af31695d24052a9bc7e1a8723c8a6",
+        "prompt": "How did Google perform compared to Tesla in the last month?"
+    },
+    {
+        "id": "b4ce45ea76a54bcb81ccd4d575224e10",
+        "prompt": "Compare last month's returns of Google and Tesla."
+    },
+    {
+        "id": "54459ae3136e4212b830133e024e68a3",
+        "prompt": "Show a performance comparison between Google and Tesla over the past month."
+    },
+    {
+        "id": "265ddb14930044eb9188f58f8da7518a",
+        "prompt": "What\u2019s the monthly performance difference between Google and Tesla?"
+    },
+    {
+        "id": "6aef1d0d92d04073a7bc29509df37e20",
+        "prompt": "Which performed better over the last month: Google or Tesla?"
+    },
+    {
+        "id": "7d7c7e36f84f4a4e9060d652e80c6569",
+        "prompt": "Between Google and Tesla, which one did better last month?"
+    },
+    {
+        "id": "b042f8229fb445b8aec031d1c76f98f2",
+        "prompt": "Can you compare Google vs Tesla for the past month?"
+    },
+    {
+        "id": "197db85ae94a427289a5ec625360478c",
+        "prompt": "I\u2019d like to see how Google stacks up against Tesla over the last month."
+    },
+    {
+        "id": "15d283e61fd54b4bb85aea607b63c792",
+        "prompt": "Tell me who\u2019s winning: Google or Tesla in the last 30 days."
+    },
+    {
+        "id": "c3c1727b4334484bbbd7816a37dbb1ca",
+        "prompt": "Which stock showed better growth last month \u2014 Google or Tesla?"
+    },
+    {
+        "id": "259efc2095f343aeb20c86ce9def4088",
+        "prompt": "Which investment had better returns last month: Google or Tesla?"
+    },
+    {
+        "id": "4a4bab2d3d4649908f33ecfcb0df8cad",
+        "prompt": "Compare the price movement of Google and Tesla over the last 30 days."
+    },
+    {
+        "id": "5a0859f5a99d479db4136481ff20a240",
+        "prompt": "Provide a performance breakdown of Google vs Tesla in last month."
+    },
+    {
+        "id": "0db4604aaccc4fd59b180bd122b3c7c3",
+        "prompt": "Monthly performance report: Google vs Tesla."
+    },
+    {
+        "id": "afe815dc4cc448dfac3c621b6d72f6d4",
+        "prompt": "Among Google and Tesla Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "ea8df81b49bd4d3aaa50eb0f9c019394",
+        "prompt": "Compare the performance of Microsoft and Tesla over the last month."
+    },
+    {
+        "id": "baf798deebdc433e9a49aabaf5c9c3cc",
+        "prompt": "How have Microsoft and Tesla performed against each other in the last quarter?"
+    },
+    {
+        "id": "554db52ea1cf4b87b6a13be9260df978",
+        "prompt": "What is the performance difference between Microsoft and Tesla in the past year?"
+    },
+    {
+        "id": "fbbf07d800554ff1a3df8c74cbe0097e",
+        "prompt": "Analyze the stock performance of Microsoft versus Tesla over the last six months."
+    },
+    {
+        "id": "e7a97da057ae4e4ebda47b27ef7461b9",
+        "prompt": "Which has outperformed the other: Microsoft or Tesla in the last three months?"
+    },
+    {
+        "id": "9294c233f3f04aae8f4b8357a3392afd",
+        "prompt": "Give me a comparison of Microsoft and Tesla's stock performance over the last week."
+    },
+    {
+        "id": "761ac30eb42c45c3a5bb9d50a4a7517e",
+        "prompt": "How did Microsoft perform compared to Tesla in the last month?"
+    },
+    {
+        "id": "af7a776de8eb4e31992caa0e76b2bb02",
+        "prompt": "Compare last month's returns of Microsoft and Tesla."
+    },
+    {
+        "id": "dcb003e313a24615b6af5ce07f0bdcd5",
+        "prompt": "Show a performance comparison between Microsoft and Tesla over the past month."
+    },
+    {
+        "id": "264b18f5a1ea49cb9f0bc73e70ce4a9c",
+        "prompt": "What\u2019s the monthly performance difference between Microsoft and Tesla?"
+    },
+    {
+        "id": "66c7d90d44674adda694a7a85c237f67",
+        "prompt": "Which performed better over the last month: Microsoft or Tesla?"
+    },
+    {
+        "id": "0d3b2df9a7cd4dccb6791d4c4e6784d5",
+        "prompt": "Between Microsoft and Tesla, which one did better last month?"
+    },
+    {
+        "id": "3bd42cf72619458ca9931706732c2cd5",
+        "prompt": "Can you compare Microsoft vs Tesla for the past month?"
+    },
+    {
+        "id": "38bd580ec49e4619bea49676c371ea54",
+        "prompt": "I\u2019d like to see how Microsoft stacks up against Tesla over the last month."
+    },
+    {
+        "id": "c7cdcb8d2c084d1ca6c2e208f434ab9f",
+        "prompt": "Tell me who\u2019s winning: Microsoft or Tesla in the last 30 days."
+    },
+    {
+        "id": "8e701a1a44fc41229676e42c724fd220",
+        "prompt": "Which stock showed better growth last month \u2014 Microsoft or Tesla?"
+    },
+    {
+        "id": "cc1a92995fda463ba8f2d5f7f9615ee3",
+        "prompt": "Which investment had better returns last month: Microsoft or Tesla?"
+    },
+    {
+        "id": "76a207cd7250488bb4501e9d550de178",
+        "prompt": "Compare the price movement of Microsoft and Tesla over the last 30 days."
+    },
+    {
+        "id": "16adffa0643d4a4f998a83af1deef5e5",
+        "prompt": "Provide a performance breakdown of Microsoft vs Tesla in last month."
+    },
+    {
+        "id": "12748fdf857740949afe6bc0de215e9d",
+        "prompt": "Monthly performance report: Microsoft vs Tesla."
+    },
+    {
+        "id": "708fec0934f040aea77db0a149e523c1",
+        "prompt": "Among Microsoft and Tesla Which stock outperformed the other over the past month?"
+    },
+    {
+        "id": "a32682866de74af296d431bd93e4ccc9",
+        "prompt": "Can you compare Apple vs Google for the past month?"
+    },
+    {
+        "id": "64331f082ac04da6be002ad80f661d19",
+        "prompt": "Monthly performance report: Amazon vs Tesla."
+    }
+]
