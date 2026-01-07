@@ -1,0 +1,11 @@
+requests
+traceloop-sdk
+dotenv
+httpx
+langchain_openai
+langchain
+mcp
+fastmcp>=2.13.1
+langchain_mcp_adapters
+yfinance
+langchain_community

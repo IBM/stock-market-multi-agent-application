@@ -9,7 +9,7 @@ print(input_query)
 input_query = Prompt(**input_query)
 print(input_query)
 model = os.getenv("MODEL")
-traceloop_log_file_path = f"trace_dataset/{input_query.id}_{model}.log"
+traceloop_log_file_path = f"trace_dataset/{input_query.id}_{model.replace("/", "_")}.log"
 
 from opentelemetry.sdk.trace.export import ConsoleSpanExporter
 exporter = ConsoleSpanExporter(out=open(traceloop_log_file_path, "w"))
@@ -30,6 +30,7 @@ from prompts.prompts import PromptDataset
 
 @workflow(name="stock_market_agent_workflow")
 async def run_agent(input_prompt):
+    print(input_prompt)
     branches = ['stock_agent', 'search_agent', END]
 
     supervisor_agent = SupervisorAgent(branches)
