@@ -2,7 +2,9 @@ import os
 import sys
 import json
 from prompts.prompts import Prompt
+from dotenv import load_dotenv
 
+load_dotenv()
 input_query = json.loads(sys.argv[1])
 print(input_query)
 
